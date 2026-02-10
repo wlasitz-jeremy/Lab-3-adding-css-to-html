@@ -1,0 +1,14 @@
+body {
+  width: 600px;
+  margin: 0 auto;
+  font-family:
+    "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: #00376c;
+}
+anchor {
+  color: #00376c;
+}
+headinglvl3 {
+  color: #1577ff;
+}
