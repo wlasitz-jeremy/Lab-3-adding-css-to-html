@@ -5,63 +5,63 @@ body {
     "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   color: #00376c;
-  a {
-    color: #00376c;
-    text-decoration: none;
-    hover {
-      text-decoration: underline;
-    }
-  }
-  .services {
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 15px;
-    padding-right: 15px;
-    margin-bottom: 40px;
-    background-color: #c7e7e7;
-    p {
-      font-style: italic;
-    }
-  }
-  h2 {
-    border-bottom: 2px solid #7b7b7b;
-    text-align: center;
-  }
-  h3 {
-    border-bottom: 2px solid #1577ff;
-    display: inline;
-    color: #1577ff;
-  }
-  header {
-    border-bottom: 6px solid #7b7b7b;
-    line-height: 80px;
-    text-align: center;
-    background-color: #c7e3ff;
-    margin-bottom: 40px;
-  }
-  footer {
-    font-style: italic;
-    text-align: center;
-    padding: 10px;
-    background-color: #c7e3ff;
-  }
-  .story {
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 15px;
-    padding-right: 15px;
-    margin-bottom: 40px;
-    background-color: #c7e7e7;
-  }
-  .locations {
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 15px;
-    padding-right: 15px;
-    margin-bottom: 40px;
-    background-color: #c7e7e7;
-  }
-  img {
-    width: 150px;
-  }
+}
+a {
+  color: #00376c;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+.services {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-bottom: 40px;
+  background-color: #c7e7e7;
+}
+.services p {
+  font-style: italic;
+}
+h2 {
+  border-bottom: 2px solid #7b7b7b;
+  text-align: center;
+}
+h3 {
+  border-bottom: 2px solid #1577ff;
+  display: inline;
+  color: #1577ff;
+}
+header {
+  border-bottom: 6px solid #7b7b7b;
+  line-height: 80px;
+  text-align: center;
+  background-color: #c7e3ff;
+  margin-bottom: 40px;
+}
+footer {
+  font-style: italic;
+  text-align: center;
+  padding: 10px;
+  background-color: #c7e3ff;
+}
+.story {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-bottom: 40px;
+  background-color: #c7e7e7;
+}
+.locations {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-bottom: 40px;
+  background-color: #c7e7e7;
+}
+img {
+  width: 150px;
 }
